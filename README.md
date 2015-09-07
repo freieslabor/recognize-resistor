@@ -6,5 +6,6 @@ This script will ask you to name the 4 colored rings of a resistor (expected in 
 ### Install and first run
 
     # pip install -r REQUIREMENTS.txt
+    # apt-get install espeak
 
 Run it and follow the instructions on screen.
